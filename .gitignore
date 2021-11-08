@@ -1,0 +1,17 @@
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+
+
+# Jupyter Notebook Checkpoints #
+######################
+.ipynb_checkpoints
+**/*.ipynb_checkpoints/
+.ipynb_checkpoints/**
+**/*.ipynb_checkpoints/**
+.ipynb_checkpoints/main-checkpoint.ipynb
+
+# Some notes taken in class #
+######################
+.notes_from_the_presentations.ipynb
